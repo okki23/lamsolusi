@@ -1,0 +1,4 @@
+[17-Sep-2017 10:27:41 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/yukgadai/public_html/phpmail/class.phpmailer.php on line 1520
+[17-Sep-2017 10:32:30 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/yukgadai/public_html/phpmail/class.phpmailer.php on line 1520
+[25-Sep-2017 21:48:00 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/yukgadai/public_html/phpmail/class.phpmailer.php on line 1520
+[25-Sep-2017 21:48:14 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/yukgadai/public_html/phpmail/class.phpmailer.php on line 1520
